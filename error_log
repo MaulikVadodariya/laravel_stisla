@@ -1,0 +1,1 @@
+[Fri Jan 07 12:36:34.126199 2022] [authz_core:error] [pid 19609] [client 127.0.0.1:56728] AH01630: client denied by server configuration: /Applications/MAMP/htdocs/maulik/.DS_Store
